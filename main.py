@@ -1,10 +1,3 @@
-# basic-chatbot
-A new repository created via Python script
-
-
----
-
-```python
 import random
 
 GREETING_KEYWORDS = ("hello", "hi", "greetings", "what's up",)
@@ -24,5 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
-This is a very basic chatbot that only responds to greetings. To make it more advanced, you would need to use natural language processing techniques, which is outside the scope of this simple example.
